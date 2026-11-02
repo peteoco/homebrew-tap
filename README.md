@@ -3,7 +3,7 @@
 Homebrew casks for Peter O'Connell's apps.
 
 ```sh
-brew install --cask peteoco/tap/blackout
+brew install --cask peteoco/tap/shade
 ```
 
-- `blackout`: [Blackout](https://github.com/peteoco/blackout), a menu bar app that turns displays off and on without unplugging them. Free, MIT.
+- `shade`: [Shade](https://github.com/peteoco/shade), a menu bar app that turns displays off and on without unplugging them. Free, MIT. Formerly Blackout.
