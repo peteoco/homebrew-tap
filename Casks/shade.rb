@@ -1,6 +1,6 @@
 cask "shade" do
-  version "2.1"
-  sha256 "ae68aa226d4911be4355c5e2b7d1455c282b0aa70cef2e291443c646542f2c1f"
+  version "2.2"
+  sha256 "2da2089587b484b3800821fc41db110d3dc764d653bdd2d62e289e09e78b97ce"
 
   url "https://github.com/peteoco/shade/releases/download/v#{version}/Shade.zip"
   name "Shade"
